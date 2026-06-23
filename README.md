@@ -5,7 +5,7 @@ prepared for machine learning experiments in author profiling
 (gender, age group, industry classification).
 
 ### 🔧 Cleaning Process
-![Cleaning process flow diagram](diagram.png)
+<img src="diagram.png" alt="Cleaning process flow diagram" width="65%">
 
 ### 🎯 Usage
 #### This dataset can be used for:
@@ -31,7 +31,7 @@ Each blog in the corpus includes at least 200 occurrences of common English word
 5437 authors with 3 age groups and 14 industry labels
 average posts per author: ~17
 
-### Note
+### ✔️ Note
 - This is a processed version of the Blog Authorship Corpus.
 - Original dataset credit: Jonathan Schler et al. (2006).
 - Use responsibly for research and educational purposes.
