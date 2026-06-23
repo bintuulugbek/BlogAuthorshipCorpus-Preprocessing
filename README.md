@@ -1,6 +1,6 @@
 ### 📝 Cleaned Blog Corpus
 
-This contains a [cleaned version of the Blog Authorship Corpus](https://www.kaggle.com/datasets/bintuulugbek/cleaned-blog-authorship-corpus),
+This contains [a cleaned version of the Blog Authorship Corpus](https://www.kaggle.com/datasets/bintuulugbek/cleaned-blog-authorship-corpus),
 prepared for machine learning experiments in author profiling 
 (gender, age group, industry classification).
 
