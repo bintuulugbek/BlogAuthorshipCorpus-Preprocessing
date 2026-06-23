@@ -5,7 +5,7 @@ prepared for machine learning experiments in author profiling
 (gender, age group, industry classification).
 
 ### 🔧 Cleaning Process
-<img src="diagram.png" alt="Cleaning process flow diagram" width="65%">
+<img src="diagram.png" alt="Cleaning process flow diagram" width="55%">
 
 ### 🎯 Usage
 #### This dataset can be used for:
